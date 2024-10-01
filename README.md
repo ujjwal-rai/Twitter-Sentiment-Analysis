@@ -1,5 +1,3 @@
----
-
 # Twitter Sentiment Analysis
 
 ## Overview
@@ -66,5 +64,3 @@ This project makes use of the following libraries:
 - [NLTK](https://www.nltk.org/)
 - [Scikit-learn](https://scikit-learn.org/)
 - [WordCloud](https://github.com/amueller/word_cloud)
-
----
